@@ -18,7 +18,7 @@ Max key length (in byte): 16. (Can be adjusted in the code if needed.)
 
 ## Download
 
-   Coming soon, see the [Releases](https://github.com/Cyb3rSh4d0w/Shadowcrypter/releases) page.
+Download the latest `Shadowcrypter.exe` from the [Releases page](https://github.com/Cyb3rSh4d0w/Shadowcrypter/releases/latest).
 
 **Sidenote:** 
 Due to encryption/decryption patterns, the executable might be flagged by some anti-virus programs. 
