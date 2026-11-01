@@ -5,7 +5,7 @@ It is a small desktop tool for finding XOR-encryption keys of XML files. (Requir
 Max key length (in byte): 16. (Can be adjusted in the code if needed.)
 
 ## Youtube tutorial
-"Coming soon"
+[Watch the video](https://www.youtube.com/watch?v=IHIIQXu01b8)
 
 ## Features
 
